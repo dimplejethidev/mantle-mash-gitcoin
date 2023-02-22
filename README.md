@@ -1,5 +1,4 @@
 # mantle-mash-gitcoin hackathon
-# Mantle Dash
 <h1 align="center">Mantle Dash</h1>
 
 <p align="center">
@@ -22,7 +21,7 @@
 
 
 
-<h1 align="center">Mantle Dash</h1>
+<h1 align="center">Preview</h1>
 - Story based gameplay, Player has to collect loot from the chests, and kill the guarding monsters.
 
 - Player has to unlock the locked token gates to reach the Mantle NFT collectible found at the End of the gameplay.
