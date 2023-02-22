@@ -1,16 +1,16 @@
-# mantle-mash-gitcoin 
+# mantle-mash-gitcoin hackathon
 # Mantle Dash
 <h1 align="center">ETHQuest</h1>
 
 <p align="center">
    <a href="/">
-    <img src="./logo.png" alt="Logo" width="480" height="480">
+    <img src="https://github.com/lopeselio/mantle-mash-gitcoin/blob/master/mantledash.png" alt="Logo" width="240" height="240">
   </a> 
 
   <h6>Built at Gitcoin Mantle Mash Hackathon</h6>
 
 
-  <img width="341" alt="image" src="https://user-images.githubusercontent.com/43913734/220740749-e9d57bc0-646e-495d-8c4e-ca2579eae874.png">
+  <img width="680" alt="image" src="https://user-images.githubusercontent.com/43913734/220740749-e9d57bc0-646e-495d-8c4e-ca2579eae874.png">
 
 
 
