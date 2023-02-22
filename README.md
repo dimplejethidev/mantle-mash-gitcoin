@@ -1,6 +1,6 @@
 # mantle-mash-gitcoin hackathon
 # Mantle Dash
-<h1 align="center">ETHQuest</h1>
+<h1 align="center">Mantle Dash</h1>
 
 <p align="center">
    <a href="/">
@@ -25,7 +25,7 @@
 <h1 align="center">Mantle Dash</h1>
 - Story based gameplay, Player has to collect loot from the chests, and kill the guarding monsters.
 
-- Player has to unlock the locked token gates to reach the OASIS NFT collectible found at the End of the gameplay.
+- Player has to unlock the locked token gates to reach the Mantle NFT collectible found at the End of the gameplay.
 
 
 - For achieving this, he has to break open the walls to unlock and find the mysterious wizard who is held captive and fetch the key to the gate.
